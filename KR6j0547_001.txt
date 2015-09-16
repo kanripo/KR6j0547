@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:33.672913
+#+DATE: 2015-08-30 20:34:34.310328
 #+TITLE: 佛說甘露經陀羅尼呪
 #+PROPERTY: CBETA_ID T21n1316
 #+PROPERTY: ID KR6j0547
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1316
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6j0547_T_000-0468b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0547_T_001-0468b> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1316¶
-
- 佛說甘露經陀羅尼呪¶
+No. 1316¶
+佛說甘露經陀羅尼¶
 ¶
 
 南無素嚕皤耶(一)怛他揭多(去聲呼之)耶(二)怛姪他¶
@@ -22,5 +21,5 @@ No.1316¶
 呵(八)¶
 
 右取水一掬呪之七遍散於空中。其水一渧¶
-變成十斛甘露。一切餓鬼並得飲之。無有乏¶
+變成中斛甘露。一切餓鬼並得飲之。無有乏¶
 少皆悉飽滿。
